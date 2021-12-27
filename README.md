@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my Github !
+
+I'm Sarah, web developper :woman_technologist:
+from Nantes, France :st_martin:.
+
 
 <!--
 **SarahNowak/SarahNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
