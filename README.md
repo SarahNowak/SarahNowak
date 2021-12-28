@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 Welcome to my Github !
 
 I'm Sarah, web developper :woman_technologist:
@@ -8,7 +8,7 @@ from Nantes, France.
 
 ----
 
-## I code with :hammer_and_wrench: 
+### I code with :hammer_and_wrench: 
 ![This is an image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![This is an image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![This is an image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -21,14 +21,14 @@ from Nantes, France.
 ![This is an image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 -----------------------
-## My stats :bar_chart:
+### My stats :bar_chart:
 [![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SarahNowak&theme=radical&hide_langs_below=8)](https://github.com/SarahNowak/github-readme-stats)
 
 [![Sarah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahNowak&theme=radical&hide_langs_below=8)](https://github.com/SarahNowak/github-readme-stats)
 
 -----------------------
 
-## Where to find me :eyes:
+### Where to find me :eyes:
 [![This is an image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahNowak)
 [![This is an image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-nowak/)
 [![This is an image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nowaksarah44@gmail.com)
