@@ -22,9 +22,10 @@ from Nantes, France.
 
 -----------------------
 ### My stats :bar_chart:
-[![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SarahNowak&theme=radical&hide_langs_below=8)](https://github.com/SarahNowak/github-readme-stats)
 
 [![Sarah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahNowak&theme=radical&hide_langs_below=8)](https://github.com/SarahNowak/github-readme-stats)
+
+[![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SarahNowak&theme=radical&hide_langs_below=8)](https://github.com/SarahNowak/github-readme-stats)
 
 -----------------------
 
