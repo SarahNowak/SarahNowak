@@ -10,7 +10,7 @@ from Nantes, France.
 
 ----
 
-### I code with :hammer_and_wrench: 
+### My favorite languages :hammer_and_wrench: 
 ![This is an image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![This is an image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![This is an image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,7 +31,7 @@ from Nantes, France.
 
 -----------------------
 
-### Where to find me :eyes:
+### To find me and contact me :eyes:
 [![This is an image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahNowak)
 [![This is an image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-nowak/)
 [![This is an image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nowaksarah44@gmail.com)
