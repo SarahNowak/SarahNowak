@@ -22,6 +22,18 @@ from Nantes, France.
 ![This is an image](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+----------------------
+
+### What i'm currently working on :woman_technologist:
+
+I'm working on a site for a karting association (Kart Club Découverte)
+
+You can find the project :
+    
+here :arrow_right: https://github.com/SarahNowak/Kart-Club-Decouverte
+
+and here :arrow_right: https://kart-club-decouverte.surge.sh/
+
 -----------------------
 ### My stats :bar_chart:
 
