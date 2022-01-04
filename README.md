@@ -24,7 +24,7 @@ from Nantes, France.
 
 ----------------------
 
-### What i'm currently working on :woman_technologist:
+### What I'm currently working on :woman_technologist:
 
 I'm working on a site for a karting association (Kart Club Découverte)
 
