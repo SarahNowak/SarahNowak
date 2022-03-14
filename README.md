@@ -26,7 +26,7 @@ from Nantes, France.
 
 ### What I'm currently working on :woman_technologist:
 
-I'm working on a site for a karting association (Kart Club Découverte)
+I'm working on a site for a karting association (Kart Club Découverte) !
 
 You can find the project :
     
